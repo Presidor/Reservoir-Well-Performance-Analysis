@@ -1,4 +1,4 @@
-# 📊 Reservoir & Well Performance Analysis (DSEATS Africa 2025)
+# 📊 Reservoir & Well Performance Analysis
 
 ## 📌 Overview
 This project presents a **comprehensive analysis of oil and gas well performance** using a combination of **data science techniques and petroleum engineering principles**.
