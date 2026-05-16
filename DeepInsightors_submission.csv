@@ -1,0 +1,21 @@
+Reservoir Name,Well Type,Production Type,Formation GOR Trend,Watercut Trend,Oil PI Trend,Reservoir Type
+JANI,GL,Unsteady,aSolGOR,Incre,Incre,Undersat
+KEMA,NF,Unsteady,aSolGOR,Incre,Incre,Undersat
+MAKO,GL,Unsteady,Combo,Combo,Flat,Saturated
+DEPU,GL,Unsteady,Combo,Incre,Decre,Saturated
+MAKO,GL,Unsteady,Combo,Incre,Incre,Saturated
+KEMA,GL,Unsteady,bSolGOR,Combo,Incre,Undersat
+KEMA,GL,Unsteady,aSolGOR,Incre,Incre,Undersat
+ACHI,GL,Unsteady,Combo,Incre,Incre,Undersat
+DEPU,GL,Unsteady,aSolGOR,Incre,Incre,Saturated
+JANI,GL,Unsteady,Combo,Combo,Decre,Undersat
+ACHI,GL,Unsteady,Combo,Flat,Combo,Undersat
+ACHI,GL,Unsteady,Combo,Incre,Flat,Undersat
+DEPU,GL,Unsteady,aSolGOR,Combo,Decre,Saturated
+MAKO,GL,Steady,Combo,Combo,Incre,Saturated
+JANI,GL,Unsteady,Combo,Incre,Incre,Undersat
+KEMA,GL,Steady,Combo,Combo,Flat,Undersat
+DEPU,GL,Unsteady,aSolGOR,Decre,Incre,Saturated
+ACHI,NF,Unsteady,Combo,Incre,Flat,Undersat
+JANI,NF,Steady,Combo,Combo,Flat,Undersat
+MAKO,GL,Unsteady,bSolGOR,Incre,Incre,Saturated
